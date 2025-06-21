@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hammad Mustafa",
+    "email": "mi715234@gmail.com",
+    "image": "https://res.cloudinary.com/dyfbwgxcl/image/upload/v1749883293/users_upload/1749883292149_dfdsfsdfsdfsd.PNG.png",
+    "id": "users_upload/1749883292149_dfdsfsdfsdfsd.PNG"
+  },
+  {
+    "id": "1750504805055",
+    "country": "india",
+    "city": "karachi",
+    "course": "mobile-app",
+    "proficiency": "intermediate",
+    "fullName": "Hammad Mustafa",
+    "fatherName": "MUSTAFA ANSARI",
+    "email": "mi715234@gmail.com",
+    "phone": "03162223288",
+    "cnic": "42101-6178362-1",
+    "fatherCnic": "42101-6514362-5",
+    "dateOfBirth": "2025-06-18",
+    "gender": "male",
+    "address": "74700",
+    "lastQualification": "dasd",
+    "hasLaptop": "asdas",
+    "pictureUrl": "https://res.cloudinary.com/dyfbwgxcl/image/upload/v1750504802/users_upload/d6dgglddxzo9spotft3p.png",
+    "picturePublicId": "users_upload/d6dgglddxzo9spotft3p",
+    "registrationDate": "2025-06-21T11:20:05.055Z",
+    "status": "pending",
+    "termsAccepted": true,
+    "termsAcceptedAt": "2025-06-21T11:20:05.058Z"
+  }
+]
